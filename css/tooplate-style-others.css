@@ -6,6 +6,13 @@ http://www.tooplate.com/view/2101-insertion
 
 */
 
+.part {padding-left: 200px;
+        padding-top: 50px;}
+.new {text-align: center;
+    font-size: 50px;
+    background-color: #E7A7C0 ;
+    color: white;
+    text-shadow: 0 0 3px #CC6666, 0 0 5px #CC6666;}
 body {
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif, 'Raleway';
 	font-size: 17px;
